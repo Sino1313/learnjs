@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "learnjs",
+  "type": "module",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon 09-runningtime.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
